@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159569089966",
+    "project_id": "drivingtest-c9372",
+    "storage_bucket": "drivingtest-c9372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159569089966:android:176773472e509a52e7243f",
+        "android_client_info": {
+          "package_name": "de.kevindroll.nachhaltigesfahren"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWFDoW1iyvY5ql6cCpWThembKy0qutzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
